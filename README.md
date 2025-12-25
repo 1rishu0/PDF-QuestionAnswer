@@ -48,6 +48,14 @@ Perfect for building custom document-specific QA applications.
    ```bash
    docker run -p 6333:6333 -v $(pwd)/qdrant_storage:/qdrant/storage qdrant/qdrant
 
+## Demo Screenshots
+
+<div align="center">
+  <img src="https://github.com/1rishu0/PDF-QuestionAnswer/blob/main/RAG_PDF_SS.png" alt="Streamlit App Screenshot" width="800"/>
+  <br>
+  <em>The Streamlit interface for uploading PDFs and asking questions.</em>
+</div>
+
 # Usage
 
 ## Streamlit Web App
